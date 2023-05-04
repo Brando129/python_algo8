@@ -1,4 +1,4 @@
-# Push all the odd numbers from 1 through a value given by a user into a new list
+# Append all the odd numbers from 1 through a value given by a user into a new list
 
 def gettin_odd(num):
     num = num+1
